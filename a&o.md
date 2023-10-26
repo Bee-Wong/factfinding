@@ -58,3 +58,5 @@ It becomes part of orchestration when multiple functions are coordinated in a la
 *Workflow - orchestration -  is like the boss that makes sure everyone knows what to do and when to do it,
  so the project goes smoothly and gets finished on time.
 ```
+
+Room 2  - Elliot, Jamilla, Ata , Bertrand, Beewong.
