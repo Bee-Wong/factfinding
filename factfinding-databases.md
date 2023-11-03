@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcSWg-_PhYVyF5YY2a35J0nnW5dEUdywFJPkbuN2eyTVqULKV58RhM9kEAZ_Sojz5nmE&usqp=CAU" alt="drawing" width="400" height="200"/> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/6509926/70553550-f033b980-1b40-11ea-9192-759b3b1053b3.png" alt="drawing" width="400" height="200"/> </p>
+<p align="center"> <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/AWS-Feature.png" alt="drawing" width="800" height="600"/> </p>
 
 #### <span style="color:#FF5733">1. What is the difference between a relational and a non-relational database?  </span>
 - Relational Database:
