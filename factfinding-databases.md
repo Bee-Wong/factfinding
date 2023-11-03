@@ -2,9 +2,9 @@
 
 ###### <p style= "text-align: center ; "> Databases fact finding exercise. </span>
 
-<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcSWg-_PhYVyF5YY2a35J0nnW5dEUdywFJPkbuN2eyTVqULKV58RhM9kEAZ_Sojz5nmE&usqp=CAU" alt="drawing" width="400" height="200"/> </p>
+<p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--VrozJ74G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2vhujyw4y75sz2zemi8.gif" alt="drawing" width="1000" height="500"/> </p>
 
-<p align="center"> <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/AWS-Feature.png" alt="drawing" width="800" height="600"/> </p>
+
 
 #### <span style="color:#FF5733">1. What is the difference between a relational and a non-relational database?  </span>
 - Relational Database:
@@ -113,6 +113,8 @@
 > - Filters groups (resulting from grouping data) based on conditions, like "average salary > 50000."
 
 >In simple terms, WHERE filters individual rows, while HAVING filters groups of data after they've been grouped.
+
+<p align="center"> <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/AWS-Feature.png" alt="drawing" width="800" height="600"/> </p>
 
 <p style="text-align: center;"><span style="font-family: Times New Roman; color:#FF5733"> Room 3 - Tanumatiben . Khalid . Hani . Moritala . Isra . Beewong </span>
 
